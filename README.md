@@ -1,4 +1,4 @@
-##This is a demo to intergrate OpenAI API with Discord API
+#This is a demo to intergrate OpenAI API with Discord API
 - JS nodeJS 
 - GPT 3.5 ONLY
 - Only basic functions of OpenAI is used
