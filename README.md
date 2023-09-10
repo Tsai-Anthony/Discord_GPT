@@ -7,3 +7,5 @@
 
 
 ![GitHub-logo](https://github.com/Tsai-Anthony/Discord_GPT/assets/116094020/959df9c6-6b7e-4c57-9bea-7a3da70541de)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
